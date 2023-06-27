@@ -7,7 +7,7 @@
 *noun*
 > A collection of useful tools for new Rustaceans.
 
-> Simplers is simple Rust
+> "Simplers is simple Rust!"
 
 ---
 
