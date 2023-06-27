@@ -1,9 +1,15 @@
 # simplers
 
-Definition:
-"The simple rs"
+![simplers](simplers.logo.png)
 
-Useful tools to make Rust easier for new developers
+**Definition:**
+
+*noun*
+> A collection of useful tools for new Rustaceans.
+
+> Simplers is simple Rust
+
+---
 
 
 ## Background
